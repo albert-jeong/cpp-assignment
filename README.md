@@ -1,2 +1,2 @@
-# cpp-ssignment
+# cpp-assignment
 CPP Assignment (So. Spring, C++)
